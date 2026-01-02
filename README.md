@@ -42,7 +42,7 @@ Click the badge below to open and run the full notebook in Google Colab:
 ## 🧠 Authors
 
 - Gogulakrishnan Thiyagarajan  
-- Mr. Taiwo
+- Taiwo Blessing Ogunseyi
 
 ---
 
